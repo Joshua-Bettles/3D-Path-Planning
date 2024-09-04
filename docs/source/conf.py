@@ -11,6 +11,10 @@ copyright = '2024, Joshua Bettles'
 author = 'Joshua Bettles'
 release = '0.0.1'
 
+python:
+    install:
+        requirements: docs/requirements.txt
+
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
